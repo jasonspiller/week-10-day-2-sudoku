@@ -1,0 +1,34 @@
+
+string of numbers // 0s represent empty spaces
+
+split string into array
+
+loop through array
+  add to an array that represents a row
+  add the array row to an board array
+
+// functions to check for uniqueness
+check for boxes // checks the 3x3
+  for 1 through 3
+    if 1 ==
+      return false
+
+
+check for row (board array)
+  for 1 through 9
+    if 1 ==
+      return false
+
+check for column ()
+  for 1 through 9 vertically
+    if 1 ==
+      return false
+
+for each row
+  if blank spot
+    for 1 through 9
+      check boxes
+      check row
+      check column
+      if unique to all three
+        insert number
